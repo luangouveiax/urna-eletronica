@@ -1,0 +1,1 @@
+Simulador de uma urna eletrôica em JS
